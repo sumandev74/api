@@ -10,7 +10,7 @@ import os
 app = Flask(__name__)
 
 # ========== CONFIGURATION ==========
-MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://gklvxxdh_db_user:s-uJm2dkF7dfuxD@cluster0.kdwdvs1.mongodb.net/?appName=Cluster0")
+MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://ddos62366_db_user:cYaNxOHsNl5mpvA8@cluster0.1bfayzm.mongodb.net/?appName=Cluster0")
 GLOBAL_MAX_CONCURRENT = 5
 ADMIN_SECRET = "CHUMT_ADMIN_159357"
 
