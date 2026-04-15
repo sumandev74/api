@@ -1,0 +1,6 @@
+flask
+pymongo
+mongo==4.6.0
+requests==2.31.0
+paramiko==3.0.0
+python-telegram-bot==20.7
